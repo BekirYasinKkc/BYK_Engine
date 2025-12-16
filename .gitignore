@@ -1,0 +1,39 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+
+# NuGet
+packages/
+*.nupkg
+NuGet.exe
+
+# Veldrid/Graphics
+*.ilk
+*.pdb
+*.cache
+
+# Unity (ignore these if you have Unity projects)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+
+# User files
+*.userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
