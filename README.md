@@ -38,4 +38,4 @@ This project was created to learn and understand how rendering systems, input ha
 This is a learning project and will be expanded with more engine features over time.
 
 ## Author
-[Dein Name] – BYK Studios
+Bekir Yasin Kökcü – BYK Studios
